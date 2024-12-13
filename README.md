@@ -1,4 +1,4 @@
-Recipe page solution
+<h1>Recipe page solution</h1>
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
 
@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [Deploy]()
+- Live Site URL: [Deploy](https://kalebemax.github.io/recipe-page-main/)
 
 
 
@@ -20,7 +20,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 - VS Code
 - Google Fonts
-- Figma
 - Git
 - Mobile-first workflow
 
