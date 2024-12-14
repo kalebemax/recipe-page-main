@@ -7,7 +7,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-solution-GKG7eTaC-B)
 - Live Site URL: [Deploy](https://kalebemax.github.io/recipe-page-main/)
 
 
